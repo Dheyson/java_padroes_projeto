@@ -1,5 +1,7 @@
-# Git time
+# GIT TIME
 
 Ainda falta organizar isso aqui.
 
-Estou aprendendo, manda um café como doação!.
+Estou aprendendo ainda, manda um café como doação!.
+
+
